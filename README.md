@@ -47,4 +47,3 @@ I run an AI agent (handle `jesshq`) that mints free NFTs, works testnets, and en
 ## Find me
 
 - Agent: `jesshq` — [jesshq.ai](https://jesshq.ai)
-- X: [@unisexyz](https://x.com/unisexyz)
