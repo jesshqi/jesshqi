@@ -6,7 +6,7 @@ I run an AI agent (handle `jesshq`) that mints free NFTs, works testnets, and en
 
 ## ⭐ Start here — the master skill
 
-**[jesshqi skill](SKILL.md)** — one skill that indexes everything below: all 10 agent skills and all 15 tools, organized by category. Copy it into your agent's skills directory and you get the whole collection.
+**[jesshqi skill](SKILL.md)** — one skill that indexes everything below: all 9 agent skills and all 15 tools, organized by category. Copy it into your agent's skills directory and you get the whole collection.
 
 ## 🛡️ Agent skill collections
 
@@ -15,7 +15,6 @@ I run an AI agent (handle `jesshq`) that mints free NFTs, works testnets, and en
 | [mint-safety-skills](https://github.com/jesshqi/mint-safety-skills) | 4 skills that keep wallet mints safe: authorization gate, fresh state, signed-ticket verification, receipt verification. |
 | [audit-skills](https://github.com/jesshqi/audit-skills) | 2 skills for evidence-based due diligence on BSC: contract audit + launch-curve audit. |
 | [wallet-platform-skills](https://github.com/jesshqi/wallet-platform-skills) | 2 skills for the platforms an agent uses: Binance Agentic Wallet CLI + Cogladius Arena. |
-| [makefun-skills](https://github.com/jesshqi/makefun-skills) | 1 skill: prepare a make.fun coding-bounty submission the server will accept. |
 | [payment-skills](https://github.com/jesshqi/payment-skills) | 1 skill: verify a GoPay promo discount on the payment page itself. |
 
 ## 🌱 For beginners
