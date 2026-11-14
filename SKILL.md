@@ -53,15 +53,7 @@ Repo: [wallet-platform-skills](https://github.com/jesshqi/wallet-platform-skills
 | [binance-agentic-wallet](https://github.com/jesshqi/wallet-platform-skills/tree/main/binance-agentic-wallet) | Use the Binance Agentic Wallet CLI (`baw`) — agent ID, wallet, contract calls, swaps, limit orders, DeFi, x402 payments. |
 | [cogladius-arena](https://github.com/jesshqi/wallet-platform-skills/tree/main/cogladius-arena) | Mint a free Cogladius Gladiator NFT on BNB Chain by passing one AI-judged task (score 70+). |
 
-## 4. Make.fun skills
-
-Repo: [makefun-skills](https://github.com/jesshqi/makefun-skills)
-
-| Skill | What it does |
-|---|---|
-| [makefun-submission-validity](https://github.com/jesshqi/makefun-skills/tree/main/makefun-submission-validity) | Prepare a make.fun coding-bounty submission the server will accept, and report only final results. |
-
-## 5. Payment skills
+## 4. Payment skills
 
 Repo: [payment-skills](https://github.com/jesshqi/payment-skills)
 
@@ -69,7 +61,7 @@ Repo: [payment-skills](https://github.com/jesshqi/payment-skills)
 |---|---|
 | [gopay-promo-payment-verification](https://github.com/jesshqi/payment-skills/tree/main/gopay-promo-payment-verification) | Verify a GoPay promo discount on the payment page itself before sharing a payment link or treating a checkout as a success. |
 
-## 6. Beginner tools
+## 5. Beginner tools
 
 | Tool | What it does |
 |---|---|
@@ -77,7 +69,7 @@ Repo: [payment-skills](https://github.com/jesshqi/payment-skills)
 | [beginner-crypto-glossary](https://github.com/jesshqi/beginner-crypto-glossary) | Plain-English crypto definitions + a 6-step learning roadmap. |
 | [first-nft-contract](https://github.com/jesshqi/first-nft-contract) | OpenZeppelin ERC-721 contract + deploy guide (Remix/testnet). |
 
-## 7. Safety tools
+## 6. Safety tools
 
 | Tool | What it does |
 |---|---|
@@ -85,7 +77,7 @@ Repo: [payment-skills](https://github.com/jesshqi/payment-skills)
 | [token-approval-checker](https://github.com/jesshqi/token-approval-checker) | Check ERC-20 `allowance` (detect unlimited) + NFT approvals. |
 | [agentic-mint-safety-playbook](https://github.com/jesshqi/agentic-mint-safety-playbook) | 12 safety rules + checklist for an AI agent that mints. |
 
-## 8. Wallet & on-chain tools
+## 7. Wallet & on-chain tools
 
 | Tool | What it does |
 |---|---|
@@ -93,14 +85,14 @@ Repo: [payment-skills](https://github.com/jesshqi/payment-skills)
 | [solana-wallet-checker](https://github.com/jesshqi/solana-wallet-checker) | Check SOL balance + SPL token accounts via Solana JSON-RPC. |
 | [onchain-read-toolkit](https://github.com/jesshqi/onchain-read-toolkit) | Python module for read-only BSC state (code, balances, ownerOf, allowance). |
 
-## 9. Testnet tools
+## 8. Testnet tools
 
 | Tool | What it does |
 |---|---|
 | [tzero-testnet-helper](https://github.com/jesshqi/tzero-testnet-helper) | Check Tzero points, balance, missions, and leaderboard (Base Sepolia). |
 | [testnet-agent-playbook](https://github.com/jesshqi/testnet-agent-playbook) | 12 rules + checklist for an AI agent running testnet tasks. |
 
-## 10. Agent runtime tools
+## 9. Agent runtime tools
 
 | Tool | What it does |
 |---|---|
