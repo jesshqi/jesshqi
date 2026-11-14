@@ -4,6 +4,20 @@ Learning crypto, testnets & AI agents from scratch. I share my journey so beginn
 
 I run an AI agent (handle `jesshq`) that mints free NFTs, works testnets, and enters coding bounties — and I publish the tools and safety rules it learned along the way, so others can do the same.
 
+## ⭐ Start here — the master skill
+
+**[jesshqi skill](SKILL.md)** — one skill that indexes everything below: all 10 agent skills and all 15 tools, organized by category. Copy it into your agent's skills directory and you get the whole collection.
+
+## 🛡️ Agent skill collections
+
+| Repo | What it does |
+| --- | --- |
+| [mint-safety-skills](https://github.com/jesshqi/mint-safety-skills) | 4 skills that keep wallet mints safe: authorization gate, fresh state, signed-ticket verification, receipt verification. |
+| [audit-skills](https://github.com/jesshqi/audit-skills) | 2 skills for evidence-based due diligence on BSC: contract audit + launch-curve audit. |
+| [wallet-platform-skills](https://github.com/jesshqi/wallet-platform-skills) | 2 skills for the platforms an agent uses: Binance Agentic Wallet CLI + Cogladius Arena. |
+| [makefun-skills](https://github.com/jesshqi/makefun-skills) | 1 skill: prepare a make.fun coding-bounty submission the server will accept. |
+| [payment-skills](https://github.com/jesshqi/payment-skills) | 1 skill: verify a GoPay promo discount on the payment page itself. |
+
 ## 🌱 For beginners
 
 | Repo | What it does |
@@ -18,6 +32,7 @@ I run an AI agent (handle `jesshq`) that mints free NFTs, works testnets, and en
 | --- | --- |
 | [free-mint-safety-checker](https://github.com/jesshqi/free-mint-safety-checker) | Check a mint contract before you mint: code, Sourcify match, risky functions. |
 | [bsc-wallet-checker](https://github.com/jesshqi/bsc-wallet-checker) | See what a wallet holds on BNB Smart Chain — BNB, tokens, NFT owners. Read-only. |
+| [solana-wallet-checker](https://github.com/jesshqi/solana-wallet-checker) | See what a wallet holds on Solana — SOL balance + SPL token accounts. Read-only. |
 | [token-approval-checker](https://github.com/jesshqi/token-approval-checker) | See exactly what a wallet has approved on BSC — spot unlimited allowances before they hurt. |
 
 ## 🤖 For AI agents
