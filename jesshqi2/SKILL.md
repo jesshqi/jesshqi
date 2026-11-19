@@ -69,7 +69,7 @@ Repo: [airdrop-agent](https://github.com/jesshqi/airdrop-agent)
 
 | Skill | What it does |
 |---|---|
-| [airdrop-agent](https://github.com/jesshqi/airdrop-agent) | Find & farm airdrops, quests and testnets safely: burner wallets, dry-run-first transactions, approval gates, kill switch, Telegram/Discord radar, faucet claims. Original author Setya Mickala (MIT). |
+| [airdrop-agent](https://github.com/jesshqi/airdrop-agent) | v4.1.0 — find & farm airdrops, quests and testnets safely: one `aa` CLI, burner wallets, dry-run-first transactions, approval gates, kill switch, Telegram/Discord radar, faucet claims, 19 ready-made quests, MCP server. Original author Setya Mickala (MIT). |
 
 Hard rules: burner wallets only — the main wallet key never enters its vault; RISK mode default OFF; every send needs approval unless RISK mode is explicitly on; Discord chat grinding is opt-in only (it breaks Discord's ToS).
 
