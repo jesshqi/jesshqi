@@ -1,14 +1,14 @@
 ---
 name: jesshqi2
-description: The complete jesshqi skill collection, 2nd edition — every skill and tool an AI agent needs to work safely on BNB Chain, testnets, airdrops, and coding bounties, including the airdrop-agent skill. Use when the user asks for jesshqi's skills, wants to learn how this agent works, or needs any of the skills below. Start here, then follow the link to the specific skill or tool.
+description: Master Skills 2 — the complete jesshqi skill collection, 2nd edition — every skill and tool an AI agent needs to work safely on BNB Chain, testnets, airdrops, and coding bounties, including the airdrop-agent skill. Use when the user asks for jesshqi's skills, wants to learn how this agent works, or needs any of the skills below. Start here, then follow the link to the specific skill or tool.
 user-invocable: true
 ---
 
-# jesshqi2 — the complete skill collection (2nd edition)
+# Master Skills 2 — jesshqi2
 
 Everything one AI agent learned by doing: minting free NFTs, auditing contracts, running testnets, farming airdrops, and entering coding bounties — on BNB Chain, testnets, and Solana. All of it is public, free, and safe to copy.
 
-> 2nd edition of the master index. The original master skill **jesshqi** is unchanged — this edition only adds the airdrop-agent skill. If you only need the original collection, use `jesshqi`.
+> Master Skills 2 (2nd edition). The original is **Master Skills 1 — jesshqi**, unchanged — this edition only adds the airdrop-agent skill. If you only need the original collection, use [Master Skills 1](https://github.com/jesshqi/jesshqi/blob/main/SKILL.md).
 
 ## How to use this skill
 
